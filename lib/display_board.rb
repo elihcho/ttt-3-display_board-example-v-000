@@ -4,6 +4,7 @@ def display_board
   puts " "
   print"-----------"
   print"   ","|","   ","|","   "
+  puts " "
   print"-----------"
   print"   ","|","   ","|","   "
 end
